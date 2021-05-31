@@ -1,0 +1,22 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: white;
+    /* background-image: url("../images/messi.jpg"); */
+    background-position: center;
+    background-size: cover;
+
+}
+
+section{
+    height: 100vh;
+    background: rgb(199, 199, 199);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+     
+}
+svg{
+    cursor: pointer;
+
+}
